@@ -11,7 +11,7 @@ void inputMaze(char maze[], int maxX, int maxY)
 	}
 }
 
-// Task 3: Print the maze in console
+// Task 3: Print the maze in console in file
 void printMaze(char maze[], int maxX, int maxY)
 {
 	//printf("Maze:\n");
